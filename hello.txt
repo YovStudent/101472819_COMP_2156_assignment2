@@ -1,0 +1,1 @@
+Your Name\nYour Student\nGit repository created from AWS EC@ instance.
